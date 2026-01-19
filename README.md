@@ -56,8 +56,6 @@ Overall, the PC Assemble lab helped me apply theoretical knowledge to real pract
 # Design Thinking
 [DESIGN THINKING PROJECT REPORT.pdf](https://github.com/user-attachments/files/24714562/DESIGN.THINKING.PROJECT.REPORT.pdf)
 
-
-
 ## Activities
 - Identified a problem based on user needs  
 - Applied the design thinking stages such as empathize, define, ideate, and prototype  
